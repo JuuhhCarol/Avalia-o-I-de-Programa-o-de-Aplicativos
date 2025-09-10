@@ -4,5 +4,7 @@ explique a utilidade deste arquivo.
 O gitignore é uma funcionalidade que colocamos nos projetos, para que não suba arquivos inuteis para o github,
 Na maioria das vezes esses arquivos são pesados e só atrapalham a funcionalidade e aparencia das pastas do projeto,
 nesse momento que o .gitignore tem um ótimo desempenho.
-Posso dar de exemplo nosso projeto de c#, incorporamos o gitignore no projeto, para que os arquivos "inuteis" gerados
+Posso citar dois exemplos:
+Nosso projeto de c#, incorporamos o gitignore no projeto, para que os arquivos "inuteis" gerados
 com o dotnet new web não subissem para o git.
+E o React, que quando instalamos o pacote entra o node_modules, que é muita coisa para o git.
