@@ -1,0 +1,7 @@
+2 - O que é um pull request no GitHub? Qual a importância dele para projetos
+colaborativos?
+
+Um pull request é uma funcionalidade feita para juntar nossa branch com outra,
+Em projetos em grupo, não podemos codar todos na mesma branch, pois a possibilidade de dar conflito é grande,
+então separamos em branchs e quando nescessario avaliar oque foi feito, discutir em grupo as proximas etapas e etc,
+fazemos um pull request.

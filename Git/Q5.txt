@@ -1,0 +1,13 @@
+5 - Você clonou um repositório remoto, irá criar uma branch chamada
+feature/login para fazer alguns commits. Escreva os comandos e passo a passo
+necessários para:
+a) Enviar essa branch para o repositório remoto.
+
+git add . (Prepara os arquivos)
+git commit -m "feat" (Salva a versão)
+git push -u origin feature (Envia para o repositório)
+
+b) Criar um pull request no GitHub.
+
+Ao entrar na pagina do seu projeto, ir até a aba na parte superior da tela, chamada pull request,
+aperta o botão verde.

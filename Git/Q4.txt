@@ -1,0 +1,5 @@
+4 – O que são conventional commits e conventional branches? Para qual finalidade
+eles seriam utilizados e resolveriam qual tipo de problema?
+
+É um padrão de escrita para por no repositorio, deixando um "historico" de facil entendimento no projeto,
+Assim, sendo mais facil acompanhar commits, restaurar versões, e no caso da branch, facilitar o processo de desenvolvimento e controle.
